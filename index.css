@@ -46,7 +46,7 @@ transition: all 0.25s linear;
 .links ul li a:hover{
 border-bottom: solid 7px #F6B400;
 }
-/*
+
 .bug{
 margin-top: 15px;
 }
@@ -57,6 +57,7 @@ font-size: 45px;
 margin: 95px 50px 75px 100px;
 
 }
+/*
 .services{
 display: flex;
 width: 100%;
