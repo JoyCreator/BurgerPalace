@@ -6,16 +6,16 @@
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
++ [Known Bugs](#bugs)
++ [Installation](installation)
++ [Installation Requirement](#installation-Requirements)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
 + [Authors Info](#author-Info)
 
 ## Description
 <p>This is a web application,developed using HTML,CSS,JS,Bootstrap,Jquery, it gives a user the option to make an order for a Pizza, they have different prices  small to large. if a user need a delivery, he/she is suppose to click a button and key in their details and finally make payment.</p>
 
-## Installation
+## Installation 
 * Net
 * browser on your pc
 * clone the repository
@@ -25,7 +25,7 @@
 ## Known Bugs
 There are no known bugs 
 
-### Requirements
+### Installation Requirements
 
 * Either a computer,phone,tablet or an Ipad
 
@@ -42,6 +42,5 @@ There are no known bugs
 ## Authors Info
 
 
-Linked - [Joylene Kirui](www.linkedin.com/in/joylene-kirui-860699176)
+LinkedIn - [Joylene Kirui](www.linkedin.com/in/joylene-kirui-860699176)
 
-[
