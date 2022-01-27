@@ -238,7 +238,7 @@ margin-bottom: 20px;
 background: linear-gradient(-76deg, rgb(255, 166, 0) 50%, white 50%);
 
 }
-/*
+
 .menus{
 display:inline-block;
 height: 100%;
@@ -256,7 +256,7 @@ padding: 20px;
 	display: flex;
 	justify-content: space-evenly;
 	padding: 60px;
-	
+/*
 }
 
 .footer{
