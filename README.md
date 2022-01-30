@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is a web application,developed using HTML,CSS,JS,Bootstrap,Jquery, it gives a user the option to make an order for a Pizza, they have different prices  small to large. if a user need a delivery, he/she is suppose to click a button and key in their details and finally make payment.</p>
+<p>This is a web application,developed using HTML and CSS. It gives a user the option to make an order for aa burger, if user needs a delivery, he/she is suppose to click a button and key in their details and finally make payment.</p>
 
 ## Installation 
 * Net
